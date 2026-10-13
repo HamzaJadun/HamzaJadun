@@ -51,7 +51,7 @@
 ### 📈 3D Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/HamzaJadun/HamzaJadun/main/profile-3dcontrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/HamzaJadun/HamzaJadun/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ### 🐍 Watch my contributions get eaten
