@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6CFF,100:2B1055&height=200&section=header&text=Hamza%20Naveed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android+%7C+Web+Developer+%7C+AI+Builder&descSize=18&descAlignY=58" />
+<img width="100%" src="https://raw.githubusercontent.com/HamzaJadun/HamzaJadun/main/assets/banner.png" alt="Hamza Naveed — Android • Web Developer • AI Builder" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6CFF&center=true&vCenter=true&width=600&lines=Android+Developer;Web+Developer+%7C+IT+Manager;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Next.js;Building+with+AI+%F0%9F%9A%80;Open+to+Work+%F0%9F%92%BC" alt="Typing SVG" />
@@ -10,7 +10,7 @@
   <a href="https://hamzajadun.github.io"><img src="https://img.shields.io/badge/Portfolio-7C6CFF?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CFF,100:2B1055&height=2" />
 
 ### 🚀 About Me
 
@@ -21,26 +21,15 @@
 - 📫 Reach me: **hamza@pips.edu.pk**
 - ⚡ Fun fact: my apps are vibe-coded, my coffee is not ☕
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CFF,100:2B1055&height=2" />
+
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,js,ts,react,nextjs,nodejs,php,laravel,py,firebase,mysql,git,figma&theme=dark" alt="Tech Stack" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CFF,100:2B1055&height=2" />
 
 ### 📊 GitHub Stats
 
@@ -57,6 +46,14 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaJadun&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CFF,100:2B1055&height=2" />
+
+### 📈 3D Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HamzaJadun/HamzaJadun/main/profile-3dcontrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
 ### 🐍 Watch my contributions get eaten
 
 <picture>
@@ -64,6 +61,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HamzaJadun/HamzaJadun/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HamzaJadun/HamzaJadun/output/github-snake-dark.svg" />
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CFF,100:2B1055&height=2" />
 
 ### 🏆 GitHub Trophies
 
@@ -77,6 +76,8 @@
   <a href="https://github.com/HamzaJadun/SecureGallery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaJadun&repo=SecureGallery&theme=tokyonight&hide_border=true" alt="SecureGallery" /></a>
   <a href="https://github.com/HamzaJadun/hamzajadun.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaJadun&repo=hamzajadun.github.io&theme=tokyonight&hide_border=true" alt="Portfolio" /></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CFF,100:2B1055&height=2" />
 
 ### 🤝 Let's Connect
 
